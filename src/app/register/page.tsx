@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>
+    <div className='w-full flex justify-center'>
       <div>
         <h1>Login</h1>
         <div>
