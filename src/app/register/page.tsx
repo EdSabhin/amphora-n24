@@ -16,8 +16,7 @@ const page = () => {
           <button className='shimmer-button w-full py-3 font-semibold rounded-md cursor-pointer active:scale-105'>Register          
           </button>
           <h2>Have an account? <span className='text-violet-600 hover:text-teal-300 hover:underline underline-offset-2 cursor-pointer'>Sign In</span></h2>
-        </div>
-        
+        </div>  
       </div>
     </div>
   )
